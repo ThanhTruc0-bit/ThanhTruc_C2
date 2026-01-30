@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ThanhTruc_2123110119_SQL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E18F29C-B172-436C-93BC-8C5036BDBE37}|ThanhTruc_2123110119_SQL\\ThanhTruc_2123110119_SQL.csproj|d:\\thanhtruc_2123110119_sql\\thanhtruc_2123110119_sql\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E18F29C-B172-436C-93BC-8C5036BDBE37}|ThanhTruc_2123110119_SQL\\ThanhTruc_2123110119_SQL.csproj|solutionrelative:thanhtruc_2123110119_sql\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E18F29C-B172-436C-93BC-8C5036BDBE37}|ThanhTruc_2123110119_SQL\\ThanhTruc_2123110119_SQL.csproj|d:\\thanhtruc_2123110119_sql\\thanhtruc_2123110119_sql\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2E18F29C-B172-436C-93BC-8C5036BDBE37}|ThanhTruc_2123110119_SQL\\ThanhTruc_2123110119_SQL.csproj|solutionrelative:thanhtruc_2123110119_sql\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E18F29C-B172-436C-93BC-8C5036BDBE37}|ThanhTruc_2123110119_SQL\\ThanhTruc_2123110119_SQL.csproj|d:\\thanhtruc_2123110119_sql\\thanhtruc_2123110119_sql\\formlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E18F29C-B172-436C-93BC-8C5036BDBE37}|ThanhTruc_2123110119_SQL\\ThanhTruc_2123110119_SQL.csproj|solutionrelative:thanhtruc_2123110119_sql\\formlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\ThanhTruc_2123110119_SQL\\ThanhTruc_2123110119_SQL\\Form1.cs",
+              "RelativeDocumentMoniker": "ThanhTruc_2123110119_SQL\\Form1.cs",
+              "ToolTip": "D:\\ThanhTruc_2123110119_SQL\\ThanhTruc_2123110119_SQL\\Form1.cs",
+              "RelativeToolTip": "ThanhTruc_2123110119_SQL\\Form1.cs",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAAAKgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T06:23:53.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\ThanhTruc_2123110119_SQL\\ThanhTruc_2123110119_SQL\\Form1.cs",
+              "RelativeDocumentMoniker": "ThanhTruc_2123110119_SQL\\Form1.cs",
+              "ToolTip": "D:\\ThanhTruc_2123110119_SQL\\ThanhTruc_2123110119_SQL\\Form1.cs [Design]",
+              "RelativeToolTip": "ThanhTruc_2123110119_SQL\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T06:03:58.33Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormLogin.Designer.cs",
+              "DocumentMoniker": "D:\\ThanhTruc_2123110119_SQL\\ThanhTruc_2123110119_SQL\\FormLogin.Designer.cs",
+              "RelativeDocumentMoniker": "ThanhTruc_2123110119_SQL\\FormLogin.Designer.cs",
+              "ToolTip": "D:\\ThanhTruc_2123110119_SQL\\ThanhTruc_2123110119_SQL\\FormLogin.Designer.cs",
+              "RelativeToolTip": "ThanhTruc_2123110119_SQL\\FormLogin.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T17:15:30.259Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
